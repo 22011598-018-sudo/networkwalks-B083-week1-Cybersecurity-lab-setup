@@ -31,6 +31,9 @@ Video Memory / Controller	128 MB / VMSVGA
 Acceleration	Nested Paging, PAE/NX, KVM Paravirtualization
 Network Adapter	Adapter 1, NAT (Intel PRO/1000 MT Desktop)
 VM Location	`D:\Kali\kali-linux-2026.2-virtualbox-amd64`
+
+
+
 🏗️ Lab Architecture
 ```
 ┌───────────────────────────────────────────────┐
