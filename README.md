@@ -128,8 +128,6 @@ A systematic troubleshooting approach: read the error, find the cause, fix it, v
 ├── 5-screenshot-folder-permissions.png
 └── README.md
 ```
-⚠️ Disclaimer
-This lab is for educational purposes only. Security tools should only be used on systems I own or have explicit permission to test.
 👤 Author
 Manahil Aamir
 Cybersecurity Intern | Week 1: Lab Setup
