@@ -128,6 +128,8 @@ A systematic troubleshooting approach: read the error, find the cause, fix it, v
 ├── 5-screenshot-folder-permissions.png
 └── README.md
 ```
+#Screenshots:
+![ ](screenshot-VM.png)
 👤 Author
 Manahil Aamir
 Cybersecurity Intern | Week 1: Lab Setup
