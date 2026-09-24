@@ -130,6 +130,10 @@ A systematic troubleshooting approach: read the error, find the cause, fix it, v
 ```
 #Screenshots:
 ![ ](screenshot-VM.png)
+![ ](screenshot_VM2.png)
+![ ](Kali-linux.png)
+![ ](Kali-linux2.png)
+![ ](kali-Vm.png)
 👤 Author
 Manahil Aamir
 Cybersecurity Intern | Week 1: Lab Setup
